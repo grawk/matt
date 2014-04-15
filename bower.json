@@ -1,10 +1,12 @@
 {
   "name": "matt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "Matt Edelman <medelman@paypal.com>"
   ],
-  "main": ["templates/matt.dust"],
+  "main": [
+    "templates/matt.dust"
+  ],
   "description": "consumer",
   "license": "MIT",
   "private": true,
