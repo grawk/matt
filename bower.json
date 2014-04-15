@@ -4,6 +4,7 @@
   "authors": [
     "Matt Edelman <medelman@paypal.com>"
   ],
+  "main": ["templates/matt.dust"],
   "description": "consumer",
   "license": "MIT",
   "private": true,
